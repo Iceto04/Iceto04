@@ -47,10 +47,10 @@
 ## 📊 My Github Stats
 
   <p align="left">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Iceto04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Iceto04&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Iceto04's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iceto04&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
   <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Iceto04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Iceto04&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Iceto04's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Iceto04&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   </p>
