@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hristo</h1>
 <h3 align="center">I'm a passionate Back-End (Full Stack soon) Developer from Bulgaria.</h3>
 
-
 ## 🙋‍♂️ About Me
 
 - 🌱 Currently learning **ASP.NET Core**
