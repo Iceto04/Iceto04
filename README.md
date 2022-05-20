@@ -15,7 +15,7 @@
 
 - ⚡ On Self-Improvement
 
-- 📄 Know about my experiences : [CV](https://files.fm/Iceto04/f/2yapr8ehf)
+- 📄 Know about my experiences : **[CV](https://files.fm/Iceto04/f/2yapr8ehf)**
 
 ## 🚀 Languages and Tools:
 
