@@ -5,7 +5,7 @@
 
 - 🌱 Currently learning **ASP.NET Core**
 
-- 🔭 Currently working on **[Assignment Manager](https://github.com/Iceto04/assignment-manager)**
+- 🔭 Currently working on **[MovieDeck](https://github.com/Iceto04/MovieDeck)**
 
 - 👯 Currently seeking to collaborate on **OpenSource Projects**
 
@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **izetohr@gmail.com**
 
-- ⚡ On Self-Improvement
-
 - 📄 Know about my experiences : **[CV](https://files.fm/Iceto04/f/2yapr8ehf)**
+
+- ⚡ On Self-Improvement
 
 ## 🚀 Languages and Tools:
 
@@ -39,6 +39,12 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/> </a> 
 </p>
 
+## Connect with me:
+
+<p align="left">
+    <a href = "https://www.linkedin.com/in/iceto04/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
+
 <!-- <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Iceto04's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Iceto04"/>
@@ -48,13 +54,3 @@
 ## 📊 My Github Stats
   <a href="#"><img align="center" alt="Iceto04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Iceto04&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="#"><img align="center" alt="Iceto04's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iceto04&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<!-- ## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p> -->
