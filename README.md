@@ -39,7 +39,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="40" height="40"/> </a> 
 </p>
 
-## Connect with me:
+## 📝 Connect with me:
 
 <p align="left">
     <a href = "https://www.linkedin.com/in/iceto04/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
