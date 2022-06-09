@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **izetohr@gmail.com**
 
-- 📄 Know about my experiences : **[CV](https://files.fm/Iceto04/f/2yapr8ehf)**
+- 📄 Know about my experiences : **[CV](https://files.fm/f/vtpag93f9)**
 
 - ⚡ On Self-Improvement
 
