@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hristo</h1>
+<h1 align="center">Hi 👋, I'm Hristo</h1>
 <h3 align="center">I'm a passionate Back-End (Full Stack soon) Developer from Bulgaria.</h3>
 
 ## 🙋‍♂️ About Me
@@ -45,12 +45,5 @@
     <a href = "https://www.linkedin.com/in/iceto04/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
-<!-- <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Iceto04's Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Iceto04"/>
-    </a>
-</p> -->
-
 ## 📊 My Github Stats
-  <a href="#"><img align="center" alt="Iceto04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Iceto04&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="#"><img align="center" alt="Iceto04's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iceto04&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
